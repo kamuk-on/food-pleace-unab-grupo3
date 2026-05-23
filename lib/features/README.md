@@ -1,0 +1,1 @@
+Cada feature debe organizarse con las carpetas `presentation/`, `domain/` y `data/`.

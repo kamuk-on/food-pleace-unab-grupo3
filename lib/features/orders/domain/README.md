@@ -1,0 +1,1 @@
+Entidades, contratos y casos de uso del modulo de pedidos.
